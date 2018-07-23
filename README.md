@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Coders!
+Shivani here , I like to learn new technologies.
